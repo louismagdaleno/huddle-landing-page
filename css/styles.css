@@ -136,4 +136,10 @@ table {
     background-size: cover;
     font-size: 62.5%;
   }
+  #main {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: nowrap;
+  }
 }
